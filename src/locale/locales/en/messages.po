@@ -9582,6 +9582,10 @@ msgstr ""
 msgid "No translation received from your device."
 msgstr "No translation received from your device."
 
+#: src/features/trendingWidget/Sync.native.tsx:34
+msgid "No trending topics are available right now."
+msgstr "No trending topics are available right now."
+
 #: src/view/screens/Profile.tsx:535
 msgid "No video posts yet"
 msgstr ""
@@ -13444,7 +13448,7 @@ msgstr ""
 msgid "Sorry, we're unable to load account suggestions at this time."
 msgstr ""
 
-#: src/App.tsx:138
+#: src/App.tsx:139
 #: src/App.web.tsx:122
 msgid "Sorry! Your session expired. Please sign in again."
 msgstr ""
@@ -14990,6 +14994,10 @@ msgstr ""
 #: src/features/gifPicker/components/GifCategoryPills.tsx:45
 msgid "Trending GIFs"
 msgstr "Trending GIFs"
+
+#: src/features/trendingWidget/Sync.native.tsx:35
+msgid "Trending on Bluesky"
+msgstr "Trending on Bluesky"
 
 #: src/components/interstitials/FeedTrendingTopics.tsx:126
 #: src/screens/Search/modules/ExploreTrendingTopics.tsx:80
